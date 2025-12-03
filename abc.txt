@@ -1,3 +1,6 @@
+https://redeem.reachdesk.com/engage_activities/6f6989bd-f039-435d-afba-128c6d97daae/l?url=https%3A%2F%2Fredeem.reachdesk.com%2Fgift_cards%2F6f6989bd-f039-435d-afba-128c6d97daae%2Fclaim&sign=734480f9e5698ad3f2a50089e0331f6002dd9dec4740033812731a928782ea0e
+https://redeem.reachdesk.com/engage_activities/ba011118-fba4-47c9-abe9-f662729dd8b9/l?url=https%3A%2F%2Fredeem.reachdesk.com%2Fgift_cards%2Fba011118-fba4-47c9-abe9-f662729dd8b9%2Fclaim&sign=16a8def6330e817e86a640e2b4a565b99287517163d1f9dcec7956b89787b504
+
 pipeline {
     agent any
 
